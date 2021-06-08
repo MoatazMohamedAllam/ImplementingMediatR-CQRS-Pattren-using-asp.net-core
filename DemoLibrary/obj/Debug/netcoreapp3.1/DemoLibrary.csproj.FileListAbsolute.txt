@@ -1,0 +1,8 @@
+M:\Asp.net Core Demos\MediatR_CQRS_Demo\MedaitR_CQRS_Demo\DemoLibrary\bin\Debug\netcoreapp3.1\DemoLibrary.deps.json
+M:\Asp.net Core Demos\MediatR_CQRS_Demo\MedaitR_CQRS_Demo\DemoLibrary\bin\Debug\netcoreapp3.1\DemoLibrary.dll
+M:\Asp.net Core Demos\MediatR_CQRS_Demo\MedaitR_CQRS_Demo\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.csprojAssemblyReference.cache
+M:\Asp.net Core Demos\MediatR_CQRS_Demo\MedaitR_CQRS_Demo\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.AssemblyInfoInputs.cache
+M:\Asp.net Core Demos\MediatR_CQRS_Demo\MedaitR_CQRS_Demo\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.AssemblyInfo.cs
+M:\Asp.net Core Demos\MediatR_CQRS_Demo\MedaitR_CQRS_Demo\DemoLibrary\bin\Debug\netcoreapp3.1\DemoLibrary.pdb
+M:\Asp.net Core Demos\MediatR_CQRS_Demo\MedaitR_CQRS_Demo\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.dll
+M:\Asp.net Core Demos\MediatR_CQRS_Demo\MedaitR_CQRS_Demo\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.pdb

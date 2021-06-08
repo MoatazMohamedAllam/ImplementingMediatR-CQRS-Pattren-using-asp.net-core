@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mezoa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mezoa\\.nuget\\packages"
+    ]
+  }
+}
